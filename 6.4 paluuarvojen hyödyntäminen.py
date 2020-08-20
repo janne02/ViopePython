@@ -1,4 +1,4 @@
-ef main():
+def main():
 	syote = input("Anna syöte (Lopeta lopettaa): ")
 	pituus(syote)
 
